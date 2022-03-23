@@ -1,0 +1,461 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.header{
+    width: 100%;
+    background-color: #3b5998;
+    height: 35px;
+    margin: 0;
+    font-size: 18px;
+    text-align:center;
+}
+body {
+    max-width: 1366px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-bottom: 90px;
+    text-decoration: none;
+    text-indent: 2px;
+    
+}
+
+.img-thumbnail{
+    border-radius: 100%; 
+    width: 50%;
+    height: auto;
+    margin-top: 3rem;
+    /* margin-left: 110px; */
+    /* margin-top: 130px; */
+} 
+.move-text{
+    /* margin-top: 40px; */
+    color: #fff;
+    font-size: 18px;
+}
+
+.mb-4{
+    color: #fff;
+    text-decoration: none;
+}
+/* .navbar-image{
+    background-color: #fff;
+    text-decoration: none;
+  
+}
+.nav-item{
+    margin-top: 30px;
+    display: inline-block;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-decoration: none;
+    text-align: center;
+
+   
+}
+.nav-item:hover{
+    text-decoration: none;
+    background-color: #fbba50;
+    padding: 5px;
+    margin: 10px;
+}
+
+
+.navbar-nav{
+    text-align: center;
+    background-color:darkgray;
+    text-decoration: none;
+}
+.navbar-nav:hover{
+     background-color: #3b5998;
+     text-decoration: none;
+}*/
+ .Socail{
+     padding-left: 1rem;
+    color: aqua;
+    text-align: left;
+} 
+.card:hover{
+    background-color: #fbba50;
+} */
+/* .about-section{
+    padding: 20px;
+    width: 50%;
+    float:left;
+    margin-right: 40px;
+    overflow: scroll;
+    margin-right: 50%;
+}
+.about-me{
+    width: 50%;
+    float: right;
+    padding: 20px;
+    margin-top: -330px;
+    margin-right: 100px;
+   margin-left: 50%;
+} */
+.Inter-st{
+    margin-bottom: 10em;
+    margin-left: 9rem;
+    padding-top: 19rem;
+    padding-bottom: 10rem;
+    margin-top: 6rem;
+    background-color: rgb(177, 238, 238);
+    border: #0b0b0b;
+    
+  
+
+   
+   
+    
+} 
+.Interbg{
+    padding-top: 1rem;
+    margin-right: .7rem;
+    margin-top: 4rem;
+    margin-bottom: 5rem;
+    margin-left: 10rem;
+   border: solid black;
+   background-color: rgb(177, 238, 238);
+   text-align: center;
+}
+.GoalHeader{
+    margin-top: 3rem;
+    margin-bottom: 2rem ; 
+    padding-top: 1rem;
+    background-color: rgb(177, 238, 238);
+    text-align: center;
+}
+.SkillHeader{
+    margin-top: 3rem;
+    margin-bottom: 2rem ; 
+    padding-top: 1rem;
+    background-color: rgb(177, 238, 238);
+    text-align: center;
+
+} 
+
+
+.InterHeader{
+    margin-top: 1rem;
+    margin-bottom: 2rem ; 
+    padding-top: 5rem;
+    
+}
+
+.card-text{
+    margin-top: 2rem ;
+    padding-right: 2rem;
+    padding-left: .5rem;
+    padding-bottom: 2rem;
+    margin-left: 0.5rem;    
+
+}
+.GoalText{
+    margin-top: 2rem ;
+    padding-right: 1rem;
+    padding-left: .5rem;
+    padding-bottom: 2rem;
+    margin-left: 0.5rem; 
+}
+.SkillText{
+    margin-top: 2rem ;
+    padding-right: 2rem;
+    padding-left: .5rem;
+    padding-bottom: 2rem;
+    margin-left: 0.5rem;    
+
+}
+.Skill-Set{
+    margin-left: 9rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 4rem;
+    background-color: rgb(177, 238, 238);
+    border: solid black;
+   
+}
+.Goalbg{
+    margin-right: 1rem;
+    margin-top: 5rem;
+    margin-bottom: 7rem;
+    margin-left: 10rem;
+    padding-left: 12rem;
+    background-color: rgb(177, 238, 238);
+    border: solid black;
+
+}
+.Skillbg{
+    margin-right: 3rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: 9rem;
+}
+.hero2{
+    background-color: #fbba50;
+}
+/* .card-body{
+
+    background-color: #fbba50;
+}   */
+
+.hero-1{
+    font-size: 18px;
+    width: 100%;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 15px;
+    border: solid black; 
+    background-color: rgb(177, 238, 238);
+    justify-content: space-between;
+    margin-top: 5px; 
+    overflow: hidden;
+}
+.hero-1:hover{
+    background-color: #fbba50;
+}
+/* #Goal-section{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 15px; 
+    border: solid black; 
+    background-color:  rgb(177, 238, 238);
+   justify-content: space-between;  
+   overflow: hidden;
+   transition: height 0.66s ease-out; */
+/*  */
+#Goal-section:hover{
+    background-color: #fbba50;
+}
+.col{
+    display: inline-block; 
+    margin-left: 3rem;
+    margin-top: 90px;
+    margin-bottom: 10px;
+    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 100px;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    height: 80px;
+
+}
+
+#Interests-section #Goal-section .hero-1{
+    flex-basis: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex: 0 1 24%;
+}
+
+.container {
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    height: 465px;
+    width: 350px;
+    box-shadow:  7px 9px 25px #0b0b0b;
+}
+h1 {
+    /* text-align: center; */
+}
+
+h2{
+    margin-top: 80px;
+}
+.contact-1{
+    padding-top: 20px;
+    margin-top: 10px;
+   
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skills-folder{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 10px;
+  
+}
+.contact-folder{
+    color: white;
+    text-align: center;
+    margin-bottom: 90px;
+}
+#contact-section{
+    
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 23rem;
+    align-items: center;
+    
+}
+.container{
+    padding-left: 200px;
+}
+input {
+    height: 30px;
+    border: 2px solid #e1dede69;
+    border-radius: 5px;
+    background: #ffff;
+    color: black;
+    text-align: center;
+    outline: none;
+    font-size: 15px;
+}
+
+.form-item-username {
+    margin: 5px;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.form-item-username input {
+    width: 150px;
+    margin: 0 5px;
+}
+
+.form-item {
+    margin: 0 auto;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+}
+
+.form-item input {
+    margin: 5px;
+    width: 100%;
+}
+
+/* .accept-box {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    font-size: 15px;
+} */
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: grey
+}
+
+.form-btns {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+}
+
+.form-btns button {
+    margin: auto;
+    font-size: 20px;
+    padding: 8px;
+    width: 280px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(75, 61, 61);
+    background: #fbba50;
+}
+
+.form-btns button:disabled {
+    cursor: not-allowed;
+    background: #2f05eb !important;
+    color: rgb(131, 120, 120) !important;
+    padding-bottom: 20px;
+}
+
+.form-btns button:hover {
+    background: #d88a0c;
+    color: antiquewhite;
+}
+
+/* .options {
+    padding-top: 15px;
+    margin: auto;
+    font-size: 13px;
+} */
+
+p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+/* .pwd-format {
+    position: relative;
+    color: rgb(65, 62, 62);
+    background: rgb(243, 234, 243);
+    font-size: 11px;
+    width: 150px;
+    padding: 5px;
+    border-radius: 5px;
+    top: 112px;
+    right: -81px;
+    z-index: 2;
+    display: none;
+} */
+.MyAboutDisc{
+    color: white;
+    text-align: left;
+    padding: 2rem;
+ 
+}
+.myAboutMe{
+    color: white;
+    text-align: left;
+    padding: 2rem;
+ 
+
+
+}
+.landing{
+    text-align: center;
+    margin-top: 3rem;
+    background-color: black;
+
+
+}
+
+@media (max-width: 809px ){
+    
+    .about-para{
+        margin-top: 8rem;
+    }
+}
+@media (max-width: 809px){
+    .about-section{
+       
+        float:none;
+        margin-top: 15rem;
+    }
+
+       
+    .about-me{
+       
+        float: none;
+       
+    
+    }
+}
